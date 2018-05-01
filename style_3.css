@@ -1,0 +1,47 @@
+body{
+	margin:0;
+	
+}
+
+h1{
+	font-family: "黑体";
+	font-size: 3em;
+
+}
+.xiaobiao{
+	font-weight: bolder;
+	font-size: 20px;
+	background-color: #cccccc;
+	float: left;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	line-height: 150px;
+
+}
+span{
+	font-weight: bolder;
+	font-size: 18px;
+	display: inline-block;
+}
+.leftdiv{
+	height: 100px;
+	background-color: #666666;
+}
+.rightdiv{
+	
+}
+.contentright{
+	height: 150px;
+	border-top:1px solid #cccccc;
+
+}
+.ch{
+	font-weight: bolder;
+	font-size: 18px;
+}
+.inb{
+	font-weight: normal;
+	
+	
+}

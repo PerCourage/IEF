@@ -1,0 +1,21 @@
+h1{
+	font-family: "黑体";
+	font-size: 3em;
+
+}
+.xiaobiao{
+	font-weight: bolder;
+	font-size: 20px;
+}
+span{
+	font-weight: bolder;
+	font-size: 18px;
+}
+.ch{
+	font-weight: bolder;
+	font-size: 18px;
+}
+.inb{
+	font-weight: normal;
+	display: block;
+}
